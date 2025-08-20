@@ -1,4 +1,33 @@
-In this project, let's build a **Coin Toss Game** by applying the concepts we have learned till now.
+# 🎲 Coin Toss Game
+
+A simple React app that simulates tossing a coin.  
+It shows the result as **Heads** or **Tails**, and keeps track of the counts.
+
+---
+
+## 🚀 Features
+- Toss a coin randomly (Heads or Tails)
+- Displays the coin image based on the result
+- Tracks **Total Tosses**, **Heads**, and **Tails**
+- Reset button to start fresh
+
+---
+
+## 🛠️ Tech Stack
+- React JS  
+- CSS  
+
+---
+
+## 📷 Screenshot
+![Coin Toss Game](https://assets.ccbp.in/frontend/react-js/heads-img.png)
+
+---
+
+## ✨ Author
+Designed & Developed by **Koushik**  
+- [GitHub](https://github.com/Koushik-26-09)  
+- [LinkedIn](https://www.linkedin.com/in/koushik26)  
 
 ### Refer to the image below:
 
